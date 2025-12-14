@@ -31,3 +31,13 @@ def COUNTLINES():
     file.close()
 
 COUNTLINES()
+```
+Concepts Used:
+File handling in Python
+Conditional statements
+Loops
+String indexing
+
+Output:
+The program prints the total number of lines that start with
+'A' or 'a'.
